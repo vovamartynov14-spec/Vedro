@@ -12,7 +12,6 @@ My first HTML project. The game is not fully functional yet, but for a short dev
 Work in progress. Not functional at the moment.
 
 ## Requirements
-- Internet
 - Browser (Like Edge, Yandex, Chrome and etc.).
 
 ## License
