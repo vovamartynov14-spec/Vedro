@@ -9,7 +9,8 @@ My first HTML project. The game is in progress, but for a short development time
 - JavaScript interactions
 
 ## Project status
-Work in progress. Not functional at the moment.
+- Work in progress
+- Work
 
 ## Requirements
 - Browser (Like Edge, Yandex, Chrome and etc.).
