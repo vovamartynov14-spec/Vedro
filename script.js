@@ -57,3 +57,19 @@ document.getElementById('reset').onclick = function() {
 };
 
 loadGame();
+
+function checkBirthday() {
+    const today = new Date();
+    const day = today.getDate();
+    const month = today.getMonth() + 1; // Январь = 0, Март = 2
+ 
+    if (day === 6 && month === 3) {
+        document.getElementById('birthdayMessage').style.display = 'block';
+        
+        console.log('%c🎉 С ДНЁМ РОЖДЕНИЯ, ВЕДРО! 🎉', 'font-size: 20px; color: #ff1493;');
+    } else {
+        document.getElementById('birthdayMessage').style.display = 'none';
+    }
+}
+
+checkBirthday();
