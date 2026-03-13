@@ -111,3 +111,22 @@ h5 {
     border-top: 1px solid #ccc;
     text-align: center;
 }
+#birthdayMessage {
+    font-size: 32px;
+    font-weight: bold;
+    color: #ff1493;
+    text-shadow: 2px 2px 4px #ffb6c1;
+    margin: 20px;
+    padding: 15px;
+    background: linear-gradient(45deg, #fff0f5, #ffe4e1);
+    border-radius: 50px;
+    border: 3px solid #ff69b4;
+    box-shadow: 0 0 20px rgba(255,105,180,0.5);
+    animation: birthdayGlow 2s infinite;
+}
+
+@keyframes birthdayGlow {
+    0% { transform: scale(1); opacity: 0.8; }
+    50% { transform: scale(1.1); opacity: 1; }
+    100% { transform: scale(1); opacity: 0.8; }
+}
