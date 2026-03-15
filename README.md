@@ -16,4 +16,4 @@ My first HTML project. The game is in progress, but for a short development time
 - Browser (Like Edge, Yandex, Chrome and etc.).
 
 ## License
-MIT License. Copyright (c) 2026 Vladimir Games
+MIT License. Copyright (c) 2026 Vladimir Codes
