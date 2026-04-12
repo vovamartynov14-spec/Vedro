@@ -1,4 +1,4 @@
-# Created by Vladimir Games
+# Created by Vladimir Codes
 # SIMULATOR "VEDRO"
 
 My first HTML project. The game is in progress, but for a short development time I think it's a good result.
